@@ -46,7 +46,9 @@ El programa mostrará en consola la declaración, inicialización y reasignació
 
 ### 👥 Integrantes del Equipo
 👤 Felipe Londoño Ospina 
+
 👤 Ian Isaza Bermudez 
+
 👤 Jordan Restrepo Tobón 
 
 ---
