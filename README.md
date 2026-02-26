@@ -153,3 +153,23 @@ public class variables {
 
 ## Enlaces a recursos utilizados 
 
+🎥 Curso de Java — Video 1
+https://youtu.be/Ztr7_sNmSQI
+
+🎥 Curso de Java — Video 2
+https://youtu.be/9ko3JV9pjbs
+
+🎥 Curso de Java — Video 3
+https://youtu.be/6lk0cRlqnTU
+
+🎥 Curso de Java — Video 4
+https://youtu.be/ZbuI6P1yLc8
+
+📘 Documentación oficial de Java — Oracle
+https://docs.oracle.com/javase/tutorial/
+
+📗 W3Schools — Java Variables
+https://www.w3schools.com/java/java_variables.asp
+
+📙 GitHub Docs — Commits y configuración de usuario
+https://docs.github.com/es/get-started
