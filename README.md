@@ -151,6 +151,12 @@ public class variables {
 
 ---
 
+## ✅ Conclusión
+
+El Taller 3 permitió reforzar conceptos fundamentales de programación en Java y al mismo tiempo practicar habilidades esenciales de control de versiones. Se logró comprender cómo declarar, inicializar y modificar variables correctamente, así como mantener un repositorio organizado mediante commits claros y trabajo en equipo.
+
+---
+
 ## Enlaces a recursos utilizados 
 
 🎥 Curso de Java — Video 1
